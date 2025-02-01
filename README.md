@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Qcharczyk.
-- 👀 I’m interested in C and C++ programming especially in embeded.
-- 🌱 I’m currently learning embedded C programming using ESP32 and I'm working on a several projects.
 
 
 <!---
